@@ -32,13 +32,18 @@ Function
 {} (após atribuição de valor é um objeto)
 + (operador de concatenação, junção)
 
-## Estrutura de repetição
+# Estrutura de repetição
 
 while
 
-## Condicionais
+# Condicionais
 
 switch
+
+# Módulos em Node.js:
+
+importação de mmódulos (require, CommonJS)
+Biblioteca 'inquirer' para criar prompts interativos
 
 
 ## Códigos apagados
