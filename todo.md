@@ -5,3 +5,4 @@
 - Marcar/Desmarcar metas como concluídas
 - Remover metas
 - Sistema de mensagens
+- Persistir dados: Sistema para carregar e salvar metas
