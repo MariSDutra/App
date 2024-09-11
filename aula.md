@@ -31,6 +31,8 @@ Function
 = (atribuição de valor)
 {} (após atribuição de valor é um objeto)
 + (operador de concatenação, junção)
+==, !=, <, >, <=, >= (comparação)
+!= (diferente)
 
 # Estrutura de repetição
 
@@ -39,6 +41,7 @@ while
 # Condicionais
 
 switch
+if/else
 
 # Módulos em Node.js:
 
