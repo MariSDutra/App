@@ -45,6 +45,10 @@ switch
 importação de mmódulos (require, CommonJS)
 Biblioteca 'inquirer' para criar prompts interativos
 
+## Programação assíncrona e Promises:
+
+Uso de funções assíncronas (assync/await)
+
 
 ## Códigos apagados
 
