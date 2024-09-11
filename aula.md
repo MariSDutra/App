@@ -36,6 +36,10 @@ Function
 
 while
 
+## Condicionais
+
+switch
+
 
 ## Códigos apagados
 
