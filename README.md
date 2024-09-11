@@ -1,1 +1,1 @@
-Projeto realizado no evento <nlw/> Pocket JavaScript - Trilha Iniciante, oferecido pela plafaforma Rocketseat.
+Projeto realizado no evento NLW Pocket JavaScript - Trilha Iniciante, oferecido pela plafaforma Rocketseat.
