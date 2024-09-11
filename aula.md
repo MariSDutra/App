@@ -29,3 +29,14 @@ Function
 ## Operadores
 
 = (atribuição de valor)
+{} (após atribuição de valor é um objeto)
++ (operador de concatenação, junção)
+
+
+## Códigos apagados
+
+01
+// olá mundo
+console.log("Olá mundo!");
+ let mensagem = "Hello World"
+ console.log(mensagem);
