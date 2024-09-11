@@ -32,6 +32,10 @@ Function
 {} (após atribuição de valor é um objeto)
 + (operador de concatenação, junção)
 
+## Estrutura de repetição
+
+while
+
 
 ## Códigos apagados
 
